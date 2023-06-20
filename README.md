@@ -1,7 +1,7 @@
 
-ReplicDataSeg.py - LIME;
-OnePyGrad.py - Grad-CAM;
-wrapper - Needed modules for LIME to run;
+ReplicDataSeg.py - LIME;  
+OnePyGrad.py - Grad-CAM;  
+wrapper - Needed modules for LIME to run;  
 data - images;
 lime_base.py, lime_image_Orig.py - Is not usable files, but algorithms which LIME uses.
 					Thise files are available in python library collection which are
